@@ -51,7 +51,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5D1193FB-043A-4EB8-A951-B4B4DB3821ED}</ProjectGuid>
+    <ProjectGuid>{9BEE6B45-26D5-451C-9B2B-F874586EED13}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>CoopGame</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

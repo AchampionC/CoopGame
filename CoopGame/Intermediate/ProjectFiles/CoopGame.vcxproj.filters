@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\CoopGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E82DC8DC-B7AB-4585-929E-4C57F31D4FF2}</UniqueIdentifier>
+      <UniqueIdentifier>{B6EA0DB4-AD17-4E30-8FB3-EFABA2E39033}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CoopGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{BAD01938-B438-4633-AB22-A74A48F96E07}</UniqueIdentifier>
+      <UniqueIdentifier>{B1E4075D-9ED1-44BC-8669-04450ED8AD11}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\CoopGame">
-      <UniqueIdentifier>{13F03815-B3E8-44F9-A1F5-4E1D3A4C2825}</UniqueIdentifier>
+      <UniqueIdentifier>{149A8289-4DB3-49E9-960C-D17115FE0721}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CoopGame\CoopGame.Build.cs">
       <Filter>Source\CoopGame</Filter>
